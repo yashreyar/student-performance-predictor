@@ -10,7 +10,7 @@ The system predicts performance metrics based on:
 ---
 
 ## 🚀 Live Demo
-👉 **[Launch Live Web App](https://your-app-name.streamlit.app/)**
+👉 **[Launch Live Web App](https://student-performance-predictor-ml-project.streamlit.app/)**
 
 ---
 
