@@ -10,7 +10,7 @@ The system predicts performance metrics based on:
 ---
 
 ## 🚀 Live Demo
-👉 **[Deploy on Streamlit Cloud](https://github.com/yashreyar/student-performance-predictor)**
+👉 **[Launch Live Web App](https://your-app-name.streamlit.app/)**
 
 ---
 
